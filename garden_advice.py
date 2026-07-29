@@ -19,3 +19,4 @@ else:
     advice += "No advice for this type of plant."
 
 print(advice)
+
